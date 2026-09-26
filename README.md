@@ -51,5 +51,5 @@ This project presents an interactive **Sales Dashboard** designed to analyze and
 ---
 
 ## 🖼 Screenshot
-- (https://github.com/Sumaiya-Kareem/SALES-DASHBOARD/blob/main/Screenshot%202026-09-21%20210518.png)
+- ![](https://github.com/Sumaiya-Kareem/SALES-DASHBOARD/blob/main/Screenshot%202026-09-21%20210518.png)
 ---
